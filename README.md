@@ -7,4 +7,5 @@ lib --- model: the CRNN model
     --- utils: supportive functins to plot figures, read files
     --- config: configure the files
     
+command is the command to run the project
 confusion_matrix is used to draw the confusion matrix based on the predictions and truths.
